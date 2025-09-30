@@ -1,0 +1,62 @@
+======================================================================
+SAMPLE EFFICIENCY INVESTIGATION
+======================================================================
+
+======================================================================
+Testing with 50 samples
+======================================================================
+
+  Training Unconstrained...
+
+Training Unconstrained network...
+Architecture: [64, 64, 10]
+Parameters: 4810
+Epochs: 50, Batch size: 16, LR: 0.01
+Epoch 10/50: Train Loss=2.2443, Train Acc=0.2500, Test Acc=0.0000, Time=0.00s
+Epoch 20/50: Train Loss=1.6971, Train Acc=0.4500, Test Acc=0.2000, Time=0.00s
+Epoch 30/50: Train Loss=1.3629, Train Acc=0.6500, Test Acc=0.2000, Time=0.00s
+Epoch 40/50: Train Loss=1.0615, Train Acc=0.8250, Test Acc=0.4000, Time=0.00s
+Epoch 50/50: Train Loss=0.8348, Train Acc=0.8500, Test Acc=0.5000, Time=0.00s
+Training complete!
+Final Test Accuracy: 0.5000
+Total Time: 0.05s
+    Test Acc: 0.5000
+
+  Training Stiefel...
+
+Training Stiefel network...
+Architecture: [64, 64, 10]
+Parameters: 4810
+Epochs: 50, Batch size: 16, LR: 0.01
+Epoch 10/50: Train Loss=2.4585, Train Acc=0.1250, Test Acc=0.0000, Time=0.01s
+Epoch 20/50: Train Loss=2.1657, Train Acc=0.2250, Test Acc=0.0000, Time=0.00s
+Epoch 30/50: Train Loss=1.8042, Train Acc=0.4500, Test Acc=0.2000, Time=0.00s
+Epoch 40/50: Train Loss=1.5779, Train Acc=0.6250, Test Acc=0.3000, Time=0.00s
+Epoch 50/50: Train Loss=1.4955, Train Acc=0.7250, Test Acc=0.5000, Time=0.00s
+Training complete!
+Final Test Accuracy: 0.5000
+Total Time: 0.25s
+    Test Acc: 0.5000
+
+  Training SpectralNorm...
+
+Training SpectralNorm network...
+Architecture: [64, 64, 10]
+Parameters: 4810
+Epochs: 50, Batch size: 16, LR: 0.01
+Epoch 10/50: Train Loss=2.1703, Train Acc=0.2750, Test Acc=0.1000, Time=0.00s
+Epoch 20/50: Train Loss=2.0252, Train Acc=0.5750, Test Acc=0.3000, Time=0.00s
+Epoch 30/50: Train Loss=1.8990, Train Acc=0.6500, Test Acc=0.3000, Time=0.00s
+Epoch 40/50: Train Loss=1.7965, Train Acc=0.6750, Test Acc=0.4000, Time=0.00s
+Epoch 50/50: Train Loss=1.6225, Train Acc=0.7000, Test Acc=0.5000, Time=0.00s
+Training complete!
+Final Test Accuracy: 0.5000
+Total Time: 0.09s
+Traceback (most recent call last):
+  File "/mnt/c/Users/MANN PATEL/claude_code/blogs/thinking_machines/experiments/sample_efficiency_test.py", line 176, in <module>
+    results = test_sample_efficiency()
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/c/Users/MANN PATEL/claude_code/blogs/thinking_machines/experiments/sample_efficiency_test.py", line 91, in test_sample_efficiency
+    results[key].append({
+    ~~~~~~~^^^^^
+KeyError: 'spectralnorm'

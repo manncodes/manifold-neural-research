@@ -15,10 +15,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 import json
 import time
-import sys
-sys.path.append('..')
-
-from experiments.mnist_manifold_nn import ManifoldMLP, train_and_evaluate
+from mnist_manifold_nn import ManifoldMLP, train_and_evaluate
 
 
 def test_sample_efficiency():
@@ -90,7 +87,13 @@ def test_sample_efficiency():
                 batch_size=min(16, len(X_train))  # Adjust batch size
             )
 
-            key = method_name.lower()
+            # Map method name to results key
+            key_map = {
+                'Unconstrained': 'unconstrained',
+                'Stiefel': 'stiefel',
+                'SpectralNorm': 'spectral'
+            }
+            key = key_map[method_name]
             results[key].append({
                 'n_samples': n_samples,
                 'test_acc': result['final_test_acc'],

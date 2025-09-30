@@ -1,0 +1,34 @@
+{
+  "scenarios": [
+    {
+      "name": "Low-Rank Data",
+      "expected": "Stiefel",
+      "recommended": "Unconstrained",
+      "confidence": 0.9,
+      "correct": false
+    },
+    {
+      "name": "High Noise",
+      "expected": "SpectralNorm",
+      "recommended": "Unconstrained",
+      "confidence": 0.9,
+      "correct": false
+    },
+    {
+      "name": "Simple Problem",
+      "expected": "Unconstrained",
+      "recommended": "Unconstrained",
+      "confidence": 0.9,
+      "correct": true
+    },
+    {
+      "name": "Limited Data",
+      "expected": "SpectralNorm",
+      "recommended": "Unconstrained",
+      "confidence": 0.9,
+      "correct": false
+    }
+  ],
+  "correct_recommendations": 1,
+  "total_scenarios": 4
+}
