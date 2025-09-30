@@ -1,0 +1,1465 @@
+[02:51:52] [INFO] Iteration 0: ============================================================
+[02:51:52] [START] Iteration 0: MANIFOLD NEURAL NETWORK RESEARCH PROGRAM
+[02:51:52] [INFO] Iteration 0: Inspired by Thinking Machines' Methodology
+[02:51:52] [INFO] Iteration 0: ============================================================
+[02:51:53] [INFO] Iteration 10: Progress Analysis - Phase: EXPLORATION
+[02:51:53] [INFO] Iteration 10:   Discoveries: 0
+[02:51:53] [INFO] Iteration 10:   Laws: 0
+[02:51:53] [INFO] Iteration 10:   Hypotheses tested: 0
+[02:51:53] [INFO] Iteration 10:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 20: Progress Analysis - Phase: EXPLORATION
+[02:51:53] [INFO] Iteration 20:   Discoveries: 0
+[02:51:53] [INFO] Iteration 20:   Laws: 0
+[02:51:53] [INFO] Iteration 20:   Hypotheses tested: 0
+[02:51:53] [INFO] Iteration 20:   Recent discovery rate: 0.00/iteration
+[02:51:53] [REFLECTION] Iteration 25: ========================================
+[02:51:53] [REFLECTION] Iteration 25: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:53] [INFO] Iteration 25: Research gaps identified:
+[02:51:53] [INFO] Iteration 25:   - Symplectic manifolds underexplored
+[02:51:53] [INFO] Iteration 25:   - Flag manifold laws not established
+[02:51:53] [INFO] Iteration 25: New research directions:
+[02:51:53] [INFO] Iteration 25:   - Investigate manifold composition effects
+[02:51:53] [INFO] Iteration 25:   - Test boundary behavior at extreme curvatures
+[02:51:53] [INFO] Iteration 25:   - Explore connections to information geometry
+[02:51:53] [INFO] Iteration 30: Progress Analysis - Phase: EXPLORATION
+[02:51:53] [INFO] Iteration 30:   Discoveries: 0
+[02:51:53] [INFO] Iteration 30:   Laws: 0
+[02:51:53] [INFO] Iteration 30:   Hypotheses tested: 0
+[02:51:53] [INFO] Iteration 30:   Recent discovery rate: 0.00/iteration
+[02:51:53] [DISCOVERY] Iteration 32: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.94)
+[02:51:53] [DISCOVERY] Iteration 37: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.93)
+[02:51:53] [INFO] Iteration 40: Progress Analysis - Phase: INVESTIGATION
+[02:51:53] [INFO] Iteration 40:   Discoveries: 2
+[02:51:53] [INFO] Iteration 40:   Laws: 0
+[02:51:53] [INFO] Iteration 40:   Hypotheses tested: 10
+[02:51:53] [INFO] Iteration 40:   Recent discovery rate: 0.20/iteration
+[02:51:53] [INFO] Iteration 40:   Mean hypothesis confidence: 0.431
+[02:51:53] [DISCOVERY] Iteration 42: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.94)
+[02:51:53] [DISCOVERY] Iteration 47: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.90)
+[02:51:53] [INFO] Iteration 50: Progress Analysis - Phase: INVESTIGATION
+[02:51:53] [INFO] Iteration 50:   Discoveries: 4
+[02:51:53] [INFO] Iteration 50:   Laws: 0
+[02:51:53] [INFO] Iteration 50:   Hypotheses tested: 20
+[02:51:53] [INFO] Iteration 50:   Recent discovery rate: 0.20/iteration
+[02:51:53] [INFO] Iteration 50:   Mean hypothesis confidence: 0.406
+[02:51:53] [REFLECTION] Iteration 50: ========================================
+[02:51:53] [REFLECTION] Iteration 50: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:53] [INFO] Iteration 50: Research gaps identified:
+[02:51:53] [INFO] Iteration 50:   - Symplectic manifolds underexplored
+[02:51:53] [INFO] Iteration 50:   - Flag manifold laws not established
+[02:51:53] [INFO] Iteration 50: New research directions:
+[02:51:53] [INFO] Iteration 50:   - Investigate manifold composition effects
+[02:51:53] [INFO] Iteration 50:   - Test boundary behavior at extreme curvatures
+[02:51:53] [INFO] Iteration 50:   - Explore connections to information geometry
+[02:51:53] [DISCOVERY] Iteration 52: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.89)
+[02:51:53] [DISCOVERY] Iteration 57: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.90)
+[02:51:53] [INFO] Iteration 60: Progress Analysis - Phase: INVESTIGATION
+[02:51:53] [INFO] Iteration 60:   Discoveries: 6
+[02:51:53] [INFO] Iteration 60:   Laws: 0
+[02:51:53] [INFO] Iteration 60:   Hypotheses tested: 30
+[02:51:53] [INFO] Iteration 60:   Recent discovery rate: 0.20/iteration
+[02:51:53] [INFO] Iteration 60:   Mean hypothesis confidence: 0.407
+[02:51:53] [DISCOVERY] Iteration 62: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.86)
+[02:51:53] [DISCOVERY] Iteration 67: HYPOTHESIS SUPPORTED: Grassmann capacity follows logarithmic growth (conf=0.88)
+[02:51:53] [INFO] Iteration 70: Progress Analysis - Phase: INVESTIGATION
+[02:51:53] [INFO] Iteration 70:   Discoveries: 8
+[02:51:53] [INFO] Iteration 70:   Laws: 0
+[02:51:53] [INFO] Iteration 70:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 70:   Recent discovery rate: 0.20/iteration
+[02:51:53] [INFO] Iteration 70:   Mean hypothesis confidence: 0.439
+[02:51:53] [LAW] Iteration 71: LAW DISCOVERED: capacity = 261.620 * log(dimension) + -654.569 (R²=0.750)
+[02:51:53] [LAW] Iteration 72: LAW DISCOVERED: capacity = 261.567 * log(dimension) + -654.201 (R²=0.750)
+[02:51:53] [REFLECTION] Iteration 75: ========================================
+[02:51:53] [REFLECTION] Iteration 75: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:53] [INFO] Iteration 75: Mean law R²: 0.750
+[02:51:53] [INFO] Iteration 75: Research gaps identified:
+[02:51:53] [INFO] Iteration 75:   - Symplectic manifolds underexplored
+[02:51:53] [INFO] Iteration 75:   - Flag manifold laws not established
+[02:51:53] [INFO] Iteration 75: New research directions:
+[02:51:53] [INFO] Iteration 75:   - Investigate manifold composition effects
+[02:51:53] [INFO] Iteration 75:   - Test boundary behavior at extreme curvatures
+[02:51:53] [INFO] Iteration 75:   - Explore connections to information geometry
+[02:51:53] [LAW] Iteration 77: LAW DISCOVERED: capacity = 281.035 * log(dimension) + -737.863 (R²=0.787)
+[02:51:53] [LAW] Iteration 78: LAW DISCOVERED: capacity = 266.338 * log(dimension) + -662.932 (R²=0.773)
+[02:51:53] [LAW] Iteration 79: LAW DISCOVERED: capacity = 272.412 * log(dimension) + -670.815 (R²=0.791)
+[02:51:53] [LAW] Iteration 80: LAW DISCOVERED: capacity = 281.654 * log(dimension) + -681.328 (R²=0.828)
+[02:51:53] [INFO] Iteration 80: Progress Analysis - Phase: PATTERN_DISCOVERY
+[02:51:53] [INFO] Iteration 80:   Discoveries: 8
+[02:51:53] [INFO] Iteration 80:   Laws: 6
+[02:51:53] [INFO] Iteration 80:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 80:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 80:   Mean hypothesis confidence: 0.439
+[02:51:53] [LAW] Iteration 81: LAW DISCOVERED: capacity = 281.584 * log(dimension) + -680.964 (R²=0.828)
+[02:51:53] [LAW] Iteration 82: LAW DISCOVERED: capacity = 278.607 * log(dimension) + -682.848 (R²=0.815)
+[02:51:53] [LAW] Iteration 83: LAW DISCOVERED: capacity = 278.778 * log(dimension) + -682.724 (R²=0.817)
+[02:51:53] [LAW] Iteration 84: LAW DISCOVERED: capacity = 288.740 * log(dimension) + -694.308 (R²=0.856)
+[02:51:53] [LAW] Iteration 85: LAW DISCOVERED: capacity = 288.769 * log(dimension) + -694.513 (R²=0.856)
+[02:51:53] [LAW] Iteration 86: LAW DISCOVERED: capacity = 278.873 * log(dimension) + -682.297 (R²=0.820)
+[02:51:53] [LAW] Iteration 87: LAW DISCOVERED: capacity = 279.146 * log(dimension) + -683.016 (R²=0.820)
+[02:51:53] [LAW] Iteration 88: LAW DISCOVERED: capacity = 279.016 * log(dimension) + -682.359 (R²=0.820)
+[02:51:53] [LAW] Iteration 89: LAW DISCOVERED: capacity = 279.032 * log(dimension) + -682.476 (R²=0.820)
+[02:51:53] [LAW] Iteration 90: LAW DISCOVERED: capacity = 278.965 * log(dimension) + -682.525 (R²=0.819)
+[02:51:53] [INFO] Iteration 90: Progress Analysis - Phase: PATTERN_DISCOVERY
+[02:51:53] [INFO] Iteration 90:   Discoveries: 8
+[02:51:53] [INFO] Iteration 90:   Laws: 16
+[02:51:53] [INFO] Iteration 90:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 90:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 90:   Mean hypothesis confidence: 0.439
+[02:51:53] [LAW] Iteration 91: LAW DISCOVERED: capacity = 271.370 * log(dimension) + -671.103 (R²=0.802)
+[02:51:53] [LAW] Iteration 92: LAW DISCOVERED: capacity = 271.449 * log(dimension) + -671.701 (R²=0.802)
+[02:51:53] [LAW] Iteration 93: LAW DISCOVERED: capacity = 271.519 * log(dimension) + -672.232 (R²=0.802)
+[02:51:53] [LAW] Iteration 94: LAW DISCOVERED: capacity = 285.679 * log(dimension) + -744.283 (R²=0.815)
+[02:51:53] [LAW] Iteration 95: LAW DISCOVERED: capacity = 292.527 * log(dimension) + -756.542 (R²=0.830)
+[02:51:53] [LAW] Iteration 96: LAW DISCOVERED: capacity = 297.445 * log(dimension) + -762.653 (R²=0.840)
+[02:51:53] [LAW] Iteration 97: LAW DISCOVERED: capacity = 280.248 * log(dimension) + -687.174 (R²=0.819)
+[02:51:53] [LAW] Iteration 98: LAW DISCOVERED: capacity = 289.561 * log(dimension) + -755.005 (R²=0.806)
+[02:51:53] [LAW] Iteration 99: LAW DISCOVERED: capacity = 290.915 * log(dimension) + -758.813 (R²=0.805)
+[02:51:53] [LAW] Iteration 100: LAW DISCOVERED: capacity = 269.977 * log(dimension) + -672.784 (R²=0.777)
+[02:51:53] [INFO] Iteration 100: Progress Analysis - Phase: PATTERN_DISCOVERY
+[02:51:53] [INFO] Iteration 100:   Discoveries: 8
+[02:51:53] [INFO] Iteration 100:   Laws: 26
+[02:51:53] [INFO] Iteration 100:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 100:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 100:   Mean hypothesis confidence: 0.439
+[02:51:53] [REFLECTION] Iteration 100: ========================================
+[02:51:53] [REFLECTION] Iteration 100: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:53] [INFO] Iteration 100: Mean law R²: 0.810
+[02:51:53] [INFO] Iteration 100: Research gaps identified:
+[02:51:53] [INFO] Iteration 100:   - Symplectic manifolds underexplored
+[02:51:53] [INFO] Iteration 100:   - Flag manifold laws not established
+[02:51:53] [INFO] Iteration 100: New research directions:
+[02:51:53] [INFO] Iteration 100:   - Investigate manifold composition effects
+[02:51:53] [INFO] Iteration 100:   - Test boundary behavior at extreme curvatures
+[02:51:53] [INFO] Iteration 100:   - Explore connections to information geometry
+[02:51:53] [LAW] Iteration 101: LAW DISCOVERED: capacity = 279.499 * log(dimension) + -739.354 (R²=0.767)
+[02:51:53] [LAW] Iteration 102: LAW DISCOVERED: capacity = 264.289 * log(dimension) + -661.796 (R²=0.754)
+[02:51:53] [LAW] Iteration 103: LAW DISCOVERED: capacity = 276.552 * log(dimension) + -683.051 (R²=0.793)
+[02:51:53] [LAW] Iteration 104: LAW DISCOVERED: capacity = 257.916 * log(dimension) + -611.436 (R²=0.770)
+[02:51:53] [LAW] Iteration 105: LAW DISCOVERED: capacity = 249.051 * log(dimension) + -561.741 (R²=0.768)
+[02:51:53] [LAW] Iteration 106: LAW DISCOVERED: capacity = 248.862 * log(dimension) + -561.721 (R²=0.766)
+[02:51:53] [LAW] Iteration 110: LAW DISCOVERED: capacity = 242.763 * log(dimension) + -499.267 (R²=0.799)
+[02:51:53] [INFO] Iteration 110: Progress Analysis - Phase: PATTERN_DISCOVERY
+[02:51:53] [INFO] Iteration 110:   Discoveries: 8
+[02:51:53] [INFO] Iteration 110:   Laws: 33
+[02:51:53] [INFO] Iteration 110:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 110:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 110:   Mean hypothesis confidence: 0.439
+[02:51:53] [INFO] Iteration 111: Refining law: Information Capacity Law
+[02:51:53] [INFO] Iteration 111: Refining law: Information Capacity Law
+[02:51:53] [INFO] Iteration 111: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 111: LAW DISCOVERED: capacity = 235.764 * log(dimension) + -483.483 (R²=0.775)
+[02:51:53] [LAW] Iteration 112: LAW DISCOVERED: spectral_radius ≈ 0.953 * sqrt(dimension) + 0.464 (corr=0.899)
+[02:51:53] [INFO] Iteration 112: Refining law: Information Capacity Law
+[02:51:53] [INFO] Iteration 112: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 112: LAW DISCOVERED: capacity = 235.747 * log(dimension) + -483.290 (R²=0.775)
+[02:51:53] [LAW] Iteration 113: LAW DISCOVERED: spectral_radius ≈ 0.889 * sqrt(dimension) + 0.818 (corr=0.880)
+[02:51:53] [INFO] Iteration 113: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 113: LAW DISCOVERED: capacity = 235.687 * log(dimension) + -482.609 (R²=0.776)
+[02:51:53] [LAW] Iteration 114: LAW DISCOVERED: spectral_radius ≈ 0.992 * sqrt(dimension) + 0.508 (corr=0.917)
+[02:51:53] [INFO] Iteration 114: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 114: LAW DISCOVERED: capacity = 241.622 * log(dimension) + -483.371 (R²=0.798)
+[02:51:53] [LAW] Iteration 115: LAW DISCOVERED: spectral_radius ≈ 0.983 * sqrt(dimension) + 0.462 (corr=0.906)
+[02:51:53] [INFO] Iteration 115: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 115: LAW DISCOVERED: capacity = 241.618 * log(dimension) + -483.363 (R²=0.798)
+[02:51:53] [LAW] Iteration 116: LAW DISCOVERED: spectral_radius ≈ 1.315 * sqrt(dimension) + -1.120 (corr=0.922)
+[02:51:53] [INFO] Iteration 116: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 116: LAW DISCOVERED: capacity = 240.143 * log(dimension) + -480.168 (R²=0.799)
+[02:51:53] [LAW] Iteration 117: LAW DISCOVERED: spectral_radius ≈ 1.193 * sqrt(dimension) + -0.718 (corr=0.923)
+[02:51:53] [INFO] Iteration 117: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 117: LAW DISCOVERED: capacity = 239.640 * log(dimension) + -502.907 (R²=0.768)
+[02:51:53] [LAW] Iteration 118: LAW DISCOVERED: spectral_radius ≈ 1.039 * sqrt(dimension) + 0.209 (corr=0.909)
+[02:51:53] [INFO] Iteration 118: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 118: LAW DISCOVERED: capacity = 240.080 * log(dimension) + -479.851 (R²=0.799)
+[02:51:53] [LAW] Iteration 119: LAW DISCOVERED: spectral_radius ≈ 1.072 * sqrt(dimension) + 0.159 (corr=0.922)
+[02:51:53] [INFO] Iteration 119: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 119: LAW DISCOVERED: capacity = 239.716 * log(dimension) + -479.063 (R²=0.799)
+[02:51:53] [LAW] Iteration 120: LAW DISCOVERED: spectral_radius ≈ 1.014 * sqrt(dimension) + 0.195 (corr=0.935)
+[02:51:53] [INFO] Iteration 120: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 120: LAW DISCOVERED: capacity = 245.036 * log(dimension) + -514.800 (R²=0.792)
+[02:51:53] [INFO] Iteration 120: Progress Analysis - Phase: LAW_FORMATION
+[02:51:53] [INFO] Iteration 120:   Discoveries: 8
+[02:51:53] [INFO] Iteration 120:   Laws: 52
+[02:51:53] [INFO] Iteration 120:   Hypotheses tested: 40
+[02:51:53] [INFO] Iteration 120:   Recent discovery rate: 0.00/iteration
+[02:51:53] [INFO] Iteration 120:   Mean hypothesis confidence: 0.439
+[02:51:53] [LAW] Iteration 121: LAW DISCOVERED: spectral_radius ≈ 0.918 * sqrt(dimension) + 0.776 (corr=0.909)
+[02:51:53] [INFO] Iteration 121: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 121: LAW DISCOVERED: capacity = 251.337 * log(dimension) + -528.790 (R²=0.817)
+[02:51:53] [LAW] Iteration 122: LAW DISCOVERED: spectral_radius ≈ 0.972 * sqrt(dimension) + 0.515 (corr=0.902)
+[02:51:53] [INFO] Iteration 122: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 122: LAW DISCOVERED: capacity = 258.056 * log(dimension) + -570.640 (R²=0.813)
+[02:51:53] [LAW] Iteration 123: LAW DISCOVERED: spectral_radius ≈ 1.050 * sqrt(dimension) + 0.123 (corr=0.908)
+[02:51:53] [INFO] Iteration 123: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 123: LAW DISCOVERED: capacity = 244.903 * log(dimension) + -551.382 (R²=0.767)
+[02:51:53] [LAW] Iteration 124: LAW DISCOVERED: spectral_radius ≈ 1.133 * sqrt(dimension) + -0.313 (corr=0.951)
+[02:51:53] [PATTERN] Iteration 124: PATTERN: Product manifold coupling correlates with dimension product (r=0.636)
+[02:51:53] [INFO] Iteration 124: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 124: LAW DISCOVERED: capacity = 253.519 * log(dimension) + -599.813 (R²=0.768)
+[02:51:53] [LAW] Iteration 125: LAW DISCOVERED: spectral_radius ≈ 1.045 * sqrt(dimension) + 0.233 (corr=0.945)
+[02:51:53] [INFO] Iteration 125: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 125: LAW DISCOVERED: capacity = 253.512 * log(dimension) + -599.776 (R²=0.768)
+[02:51:53] [REFLECTION] Iteration 125: ========================================
+[02:51:53] [REFLECTION] Iteration 125: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:53] [INFO] Iteration 125: Mean law R²: 0.798
+[02:51:53] [INFO] Iteration 125: Research gaps identified:
+[02:51:53] [INFO] Iteration 125:   - Symplectic manifolds underexplored
+[02:51:53] [INFO] Iteration 125:   - Flag manifold laws not established
+[02:51:53] [INFO] Iteration 125: New research directions:
+[02:51:53] [INFO] Iteration 125:   - Investigate manifold composition effects
+[02:51:53] [INFO] Iteration 125:   - Test boundary behavior at extreme curvatures
+[02:51:53] [INFO] Iteration 125:   - Explore connections to information geometry
+[02:51:53] [LAW] Iteration 126: LAW DISCOVERED: spectral_radius ≈ 1.104 * sqrt(dimension) + -0.158 (corr=0.922)
+[02:51:53] [INFO] Iteration 126: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 126: LAW DISCOVERED: capacity = 259.954 * log(dimension) + -613.628 (R²=0.793)
+[02:51:53] [LAW] Iteration 127: LAW DISCOVERED: spectral_radius ≈ 1.125 * sqrt(dimension) + -0.226 (corr=0.929)
+[02:51:53] [INFO] Iteration 127: Refining law: Information Capacity Law
+[02:51:53] [LAW] Iteration 127: LAW DISCOVERED: capacity = 264.652 * log(dimension) + -658.525 (R²=0.776)
+[02:51:54] [LAW] Iteration 128: LAW DISCOVERED: spectral_radius ≈ 1.032 * sqrt(dimension) + 0.334 (corr=0.907)
+[02:51:54] [INFO] Iteration 128: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 128: LAW DISCOVERED: capacity = 264.624 * log(dimension) + -658.388 (R²=0.775)
+[02:51:54] [LAW] Iteration 129: LAW DISCOVERED: spectral_radius ≈ 1.102 * sqrt(dimension) + -0.075 (corr=0.889)
+[02:51:54] [INFO] Iteration 129: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 129: LAW DISCOVERED: capacity = 264.615 * log(dimension) + -658.346 (R²=0.775)
+[02:51:54] [LAW] Iteration 130: LAW DISCOVERED: spectral_radius ≈ 1.117 * sqrt(dimension) + -0.132 (corr=0.939)
+[02:51:54] [INFO] Iteration 130: Refining law: Information Capacity Law
+[02:51:54] [INFO] Iteration 130: Progress Analysis - Phase: LAW_FORMATION
+[02:51:54] [INFO] Iteration 130:   Discoveries: 9
+[02:51:54] [INFO] Iteration 130:   Laws: 71
+[02:51:54] [INFO] Iteration 130:   Hypotheses tested: 40
+[02:51:54] [INFO] Iteration 130:   Recent discovery rate: 0.10/iteration
+[02:51:54] [INFO] Iteration 130:   Mean hypothesis confidence: 0.439
+[02:51:54] [LAW] Iteration 131: LAW DISCOVERED: spectral_radius ≈ 1.086 * sqrt(dimension) + -0.078 (corr=0.961)
+[02:51:54] [INFO] Iteration 131: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 132: LAW DISCOVERED: spectral_radius ≈ 0.939 * sqrt(dimension) + 0.625 (corr=0.921)
+[02:51:54] [LAW] Iteration 133: LAW DISCOVERED: spectral_radius ≈ 1.025 * sqrt(dimension) + 0.183 (corr=0.948)
+[02:51:54] [LAW] Iteration 133: LAW DISCOVERED: capacity = 246.445 * log(dimension) + -554.466 (R²=0.766)
+[02:51:54] [LAW] Iteration 134: LAW DISCOVERED: spectral_radius ≈ 1.046 * sqrt(dimension) + 0.173 (corr=0.945)
+[02:51:54] [PATTERN] Iteration 134: PATTERN: Product manifold coupling correlates with dimension product (r=-1.000)
+[02:51:54] [INFO] Iteration 134: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 135: LAW DISCOVERED: spectral_radius ≈ 0.967 * sqrt(dimension) + 0.528 (corr=0.896)
+[02:51:54] [INFO] Iteration 135: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 136: LAW DISCOVERED: spectral_radius ≈ 1.076 * sqrt(dimension) + -0.097 (corr=0.940)
+[02:51:54] [LAW] Iteration 137: LAW DISCOVERED: spectral_radius ≈ 1.097 * sqrt(dimension) + -0.090 (corr=0.941)
+[02:51:54] [LAW] Iteration 138: LAW DISCOVERED: spectral_radius ≈ 1.092 * sqrt(dimension) + -0.158 (corr=0.958)
+[02:51:54] [LAW] Iteration 138: LAW DISCOVERED: capacity = 257.994 * log(dimension) + -610.905 (R²=0.766)
+[02:51:54] [LAW] Iteration 139: LAW DISCOVERED: spectral_radius ≈ 1.045 * sqrt(dimension) + 0.097 (corr=0.963)
+[02:51:54] [INFO] Iteration 139: Refining law: Information Capacity Law
+[02:51:54] [LAW] Iteration 140: LAW DISCOVERED: spectral_radius ≈ 1.214 * sqrt(dimension) + -0.816 (corr=0.966)
+[02:51:54] [INFO] Iteration 140: Refining law: Information Capacity Law
+[02:51:54] [INFO] Iteration 140: Progress Analysis - Phase: LAW_FORMATION
+[02:51:54] [INFO] Iteration 140:   Discoveries: 10
+[02:51:54] [INFO] Iteration 140:   Laws: 83
+[02:51:54] [INFO] Iteration 140:   Hypotheses tested: 40
+[02:51:54] [INFO] Iteration 140:   Recent discovery rate: 0.10/iteration
+[02:51:54] [INFO] Iteration 140:   Mean hypothesis confidence: 0.439
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 141: FAILED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 141: Validation rate: 59.0% (49/83)
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 142: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 142: Validation rate: 66.3% (55/83)
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 143: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 143: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 143: Validation rate: 71.1% (59/83)
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 144: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 144: Validation rate: 65.1% (54/83)
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 145: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 145: Validation rate: 71.1% (59/83)
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 146: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 146: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 146: Validation rate: 65.1% (54/83)
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 147: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 147: FAILED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 147: Validation rate: 72.3% (60/83)
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 148: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 148: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 148: Validation rate: 62.7% (52/83)
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 149: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 149: Validation rate: 67.5% (56/83)
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Information Capacity Law
+[02:51:54] [VALIDATION] Iteration 150: FAILED: Spectral Radius Law
+[02:51:54] [VALIDATION] Iteration 150: VALIDATED: Spectral Radius Law
+[02:51:54] [INFO] Iteration 150: Validation rate: 74.7% (62/83)
+[02:51:54] [INFO] Iteration 150: Progress Analysis - Phase: VALIDATION
+[02:51:54] [INFO] Iteration 150:   Discoveries: 10
+[02:51:54] [INFO] Iteration 150:   Laws: 83
+[02:51:54] [INFO] Iteration 150:   Hypotheses tested: 40
+[02:51:54] [INFO] Iteration 150:   Recent discovery rate: 0.00/iteration
+[02:51:54] [INFO] Iteration 150:   Mean hypothesis confidence: 0.439
+[02:51:54] [REFLECTION] Iteration 150: ========================================
+[02:51:54] [REFLECTION] Iteration 150: DEEP REFLECTION ON RESEARCH PROGRESS
+[02:51:54] [INFO] Iteration 150: Mean law R²: 0.795
+[02:51:54] [INFO] Iteration 150: Research gaps identified:
+[02:51:54] [INFO] Iteration 150:   - Symplectic manifolds underexplored
+[02:51:54] [INFO] Iteration 150:   - Flag manifold laws not established
+[02:51:54] [INFO] Iteration 150: New research directions:
+[02:51:54] [INFO] Iteration 150:   - Investigate manifold composition effects
+[02:51:54] [INFO] Iteration 150:   - Test boundary behavior at extreme curvatures
+[02:51:54] [INFO] Iteration 150:   - Explore connections to information geometry
+[02:51:54] [INFO] Iteration 150: 
+============================================================
+[02:51:54] [FINAL] Iteration 150: FINAL RESEARCH REPORT
+[02:51:54] [INFO] Iteration 150: ============================================================
+[02:51:54] [INFO] Iteration 150: 
+RESEARCH STATISTICS:
+[02:51:54] [INFO] Iteration 150:   Total iterations: 150
+[02:51:54] [INFO] Iteration 150:   Total discoveries: 10
+[02:51:54] [INFO] Iteration 150:   Laws formulated: 83
+[02:51:54] [INFO] Iteration 150:   Hypotheses tested: 40
+[02:51:54] [INFO] Iteration 150:   Phase transitions observed: 65
+[02:51:54] [INFO] Iteration 150:   Data points collected: 280
+[02:51:54] [INFO] Iteration 150: 
+KEY DISCOVERIES:
+[02:51:54] [INFO] Iteration 150:   1. [32] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   2. [37] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   3. [42] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   4. [47] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   5. [52] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   6. [57] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   7. [62] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   8. [67] Grassmann capacity follows logarithmic growth
+[02:51:54] [INFO] Iteration 150:   9. [124] Product manifold coupling correlates with dimension product (r=0.636)
+[02:51:54] [INFO] Iteration 150:   10. [134] Product manifold coupling correlates with dimension product (r=-1.000)
+[02:51:54] [INFO] Iteration 150: 
+MATHEMATICAL LAWS DISCOVERED:
+[02:51:54] [INFO] Iteration 150:   1. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 261.620 * log(dimension) + -654.569
+[02:51:54] [INFO] Iteration 150:      R²: 0.7504
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 71
+[02:51:54] [INFO] Iteration 150:   2. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 261.567 * log(dimension) + -654.201
+[02:51:54] [INFO] Iteration 150:      R²: 0.7505
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 72
+[02:51:54] [INFO] Iteration 150:   3. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 281.035 * log(dimension) + -737.863
+[02:51:54] [INFO] Iteration 150:      R²: 0.7867
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 77
+[02:51:54] [INFO] Iteration 150:   4. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 266.338 * log(dimension) + -662.932
+[02:51:54] [INFO] Iteration 150:      R²: 0.7732
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 78
+[02:51:54] [INFO] Iteration 150:   5. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 272.412 * log(dimension) + -670.815
+[02:51:54] [INFO] Iteration 150:      R²: 0.7909
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 79
+[02:51:54] [INFO] Iteration 150:   6. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 281.654 * log(dimension) + -681.328
+[02:51:54] [INFO] Iteration 150:      R²: 0.8281
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 80
+[02:51:54] [INFO] Iteration 150:   7. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 281.584 * log(dimension) + -680.964
+[02:51:54] [INFO] Iteration 150:      R²: 0.8279
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 81
+[02:51:54] [INFO] Iteration 150:   8. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 278.607 * log(dimension) + -682.848
+[02:51:54] [INFO] Iteration 150:      R²: 0.8153
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 82
+[02:51:54] [INFO] Iteration 150:   9. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 278.778 * log(dimension) + -682.724
+[02:51:54] [INFO] Iteration 150:      R²: 0.8173
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 83
+[02:51:54] [INFO] Iteration 150:   10. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 288.740 * log(dimension) + -694.308
+[02:51:54] [INFO] Iteration 150:      R²: 0.8562
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 84
+[02:51:54] [INFO] Iteration 150:   11. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 288.769 * log(dimension) + -694.513
+[02:51:54] [INFO] Iteration 150:      R²: 0.8562
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 85
+[02:51:54] [INFO] Iteration 150:   12. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 278.873 * log(dimension) + -682.297
+[02:51:54] [INFO] Iteration 150:      R²: 0.8202
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 86
+[02:51:54] [INFO] Iteration 150:   13. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 279.146 * log(dimension) + -683.016
+[02:51:54] [INFO] Iteration 150:      R²: 0.8201
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 87
+[02:51:54] [INFO] Iteration 150:   14. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 279.016 * log(dimension) + -682.359
+[02:51:54] [INFO] Iteration 150:      R²: 0.8198
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 88
+[02:51:54] [INFO] Iteration 150:   15. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 279.032 * log(dimension) + -682.476
+[02:51:54] [INFO] Iteration 150:      R²: 0.8197
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 89
+[02:51:54] [INFO] Iteration 150:   16. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 278.965 * log(dimension) + -682.525
+[02:51:54] [INFO] Iteration 150:      R²: 0.8189
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 90
+[02:51:54] [INFO] Iteration 150:   17. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 271.370 * log(dimension) + -671.103
+[02:51:54] [INFO] Iteration 150:      R²: 0.8024
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 91
+[02:51:54] [INFO] Iteration 150:   18. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 271.449 * log(dimension) + -671.701
+[02:51:54] [INFO] Iteration 150:      R²: 0.8022
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 92
+[02:51:54] [INFO] Iteration 150:   19. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 271.519 * log(dimension) + -672.232
+[02:51:54] [INFO] Iteration 150:      R²: 0.8021
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 93
+[02:51:54] [INFO] Iteration 150:   20. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 285.679 * log(dimension) + -744.283
+[02:51:54] [INFO] Iteration 150:      R²: 0.8154
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 94
+[02:51:54] [INFO] Iteration 150:   21. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 292.527 * log(dimension) + -756.542
+[02:51:54] [INFO] Iteration 150:      R²: 0.8304
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 95
+[02:51:54] [INFO] Iteration 150:   22. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 297.445 * log(dimension) + -762.653
+[02:51:54] [INFO] Iteration 150:      R²: 0.8404
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 96
+[02:51:54] [INFO] Iteration 150:   23. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 280.248 * log(dimension) + -687.174
+[02:51:54] [INFO] Iteration 150:      R²: 0.8189
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 97
+[02:51:54] [INFO] Iteration 150:   24. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 289.561 * log(dimension) + -755.005
+[02:51:54] [INFO] Iteration 150:      R²: 0.8058
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 98
+[02:51:54] [INFO] Iteration 150:   25. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 290.915 * log(dimension) + -758.813
+[02:51:54] [INFO] Iteration 150:      R²: 0.8055
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 99
+[02:51:54] [INFO] Iteration 150:   26. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 269.977 * log(dimension) + -672.784
+[02:51:54] [INFO] Iteration 150:      R²: 0.7772
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 100
+[02:51:54] [INFO] Iteration 150:   27. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 279.499 * log(dimension) + -739.354
+[02:51:54] [INFO] Iteration 150:      R²: 0.7670
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 101
+[02:51:54] [INFO] Iteration 150:   28. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 264.289 * log(dimension) + -661.796
+[02:51:54] [INFO] Iteration 150:      R²: 0.7536
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 102
+[02:51:54] [INFO] Iteration 150:   29. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 276.552 * log(dimension) + -683.051
+[02:51:54] [INFO] Iteration 150:      R²: 0.7931
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 103
+[02:51:54] [INFO] Iteration 150:   30. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 257.916 * log(dimension) + -611.436
+[02:51:54] [INFO] Iteration 150:      R²: 0.7695
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 104
+[02:51:54] [INFO] Iteration 150:   31. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 249.051 * log(dimension) + -561.741
+[02:51:54] [INFO] Iteration 150:      R²: 0.7676
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 105
+[02:51:54] [INFO] Iteration 150:   32. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 248.862 * log(dimension) + -561.721
+[02:51:54] [INFO] Iteration 150:      R²: 0.7659
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 106
+[02:51:54] [INFO] Iteration 150:   33. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 242.763 * log(dimension) + -499.267
+[02:51:54] [INFO] Iteration 150:      R²: 0.7993
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 110
+[02:51:54] [INFO] Iteration 150:   34. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 235.764 * log(dimension) + -483.483
+[02:51:54] [INFO] Iteration 150:      R²: 0.7750
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 111
+[02:51:54] [INFO] Iteration 150:   35. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.953 * sqrt(dimension) + 0.464
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 112
+[02:51:54] [INFO] Iteration 150:   36. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 235.747 * log(dimension) + -483.290
+[02:51:54] [INFO] Iteration 150:      R²: 0.7751
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 112
+[02:51:54] [INFO] Iteration 150:   37. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.889 * sqrt(dimension) + 0.818
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 113
+[02:51:54] [INFO] Iteration 150:   38. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 235.687 * log(dimension) + -482.609
+[02:51:54] [INFO] Iteration 150:      R²: 0.7757
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 113
+[02:51:54] [INFO] Iteration 150:   39. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.992 * sqrt(dimension) + 0.508
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 114
+[02:51:54] [INFO] Iteration 150:   40. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 241.622 * log(dimension) + -483.371
+[02:51:54] [INFO] Iteration 150:      R²: 0.7984
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 114
+[02:51:54] [INFO] Iteration 150:   41. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.983 * sqrt(dimension) + 0.462
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 115
+[02:51:54] [INFO] Iteration 150:   42. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 241.618 * log(dimension) + -483.363
+[02:51:54] [INFO] Iteration 150:      R²: 0.7984
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 115
+[02:51:54] [INFO] Iteration 150:   43. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.315 * sqrt(dimension) + -1.120
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 116
+[02:51:54] [INFO] Iteration 150:   44. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 240.143 * log(dimension) + -480.168
+[02:51:54] [INFO] Iteration 150:      R²: 0.7991
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 116
+[02:51:54] [INFO] Iteration 150:   45. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.193 * sqrt(dimension) + -0.718
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 117
+[02:51:54] [INFO] Iteration 150:   46. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 239.640 * log(dimension) + -502.907
+[02:51:54] [INFO] Iteration 150:      R²: 0.7683
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 117
+[02:51:54] [INFO] Iteration 150:   47. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.039 * sqrt(dimension) + 0.209
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 118
+[02:51:54] [INFO] Iteration 150:   48. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 240.080 * log(dimension) + -479.851
+[02:51:54] [INFO] Iteration 150:      R²: 0.7989
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 118
+[02:51:54] [INFO] Iteration 150:   49. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.072 * sqrt(dimension) + 0.159
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 119
+[02:51:54] [INFO] Iteration 150:   50. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 239.716 * log(dimension) + -479.063
+[02:51:54] [INFO] Iteration 150:      R²: 0.7992
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 119
+[02:51:54] [INFO] Iteration 150:   51. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.014 * sqrt(dimension) + 0.195
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 120
+[02:51:54] [INFO] Iteration 150:   52. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 245.036 * log(dimension) + -514.800
+[02:51:54] [INFO] Iteration 150:      R²: 0.7919
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 120
+[02:51:54] [INFO] Iteration 150:   53. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.918 * sqrt(dimension) + 0.776
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 121
+[02:51:54] [INFO] Iteration 150:   54. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 251.337 * log(dimension) + -528.790
+[02:51:54] [INFO] Iteration 150:      R²: 0.8166
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 121
+[02:51:54] [INFO] Iteration 150:   55. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.972 * sqrt(dimension) + 0.515
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 122
+[02:51:54] [INFO] Iteration 150:   56. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 258.056 * log(dimension) + -570.640
+[02:51:54] [INFO] Iteration 150:      R²: 0.8129
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 122
+[02:51:54] [INFO] Iteration 150:   57. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.050 * sqrt(dimension) + 0.123
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 123
+[02:51:54] [INFO] Iteration 150:   58. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 244.903 * log(dimension) + -551.382
+[02:51:54] [INFO] Iteration 150:      R²: 0.7668
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 123
+[02:51:54] [INFO] Iteration 150:   59. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.133 * sqrt(dimension) + -0.313
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 124
+[02:51:54] [INFO] Iteration 150:   60. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 253.519 * log(dimension) + -599.813
+[02:51:54] [INFO] Iteration 150:      R²: 0.7682
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 124
+[02:51:54] [INFO] Iteration 150:   61. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.045 * sqrt(dimension) + 0.233
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 125
+[02:51:54] [INFO] Iteration 150:   62. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 253.512 * log(dimension) + -599.776
+[02:51:54] [INFO] Iteration 150:      R²: 0.7682
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 125
+[02:51:54] [INFO] Iteration 150:   63. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.104 * sqrt(dimension) + -0.158
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 126
+[02:51:54] [INFO] Iteration 150:   64. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 259.954 * log(dimension) + -613.628
+[02:51:54] [INFO] Iteration 150:      R²: 0.7926
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 126
+[02:51:54] [INFO] Iteration 150:   65. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.125 * sqrt(dimension) + -0.226
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 127
+[02:51:54] [INFO] Iteration 150:   66. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 264.652 * log(dimension) + -658.525
+[02:51:54] [INFO] Iteration 150:      R²: 0.7755
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 127
+[02:51:54] [INFO] Iteration 150:   67. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.032 * sqrt(dimension) + 0.334
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 128
+[02:51:54] [INFO] Iteration 150:   68. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 264.624 * log(dimension) + -658.388
+[02:51:54] [INFO] Iteration 150:      R²: 0.7754
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 128
+[02:51:54] [INFO] Iteration 150:   69. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.102 * sqrt(dimension) + -0.075
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 129
+[02:51:54] [INFO] Iteration 150:   70. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 264.615 * log(dimension) + -658.346
+[02:51:54] [INFO] Iteration 150:      R²: 0.7754
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 129
+[02:51:54] [INFO] Iteration 150:   71. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.117 * sqrt(dimension) + -0.132
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 130
+[02:51:54] [INFO] Iteration 150:   72. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.086 * sqrt(dimension) + -0.078
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 131
+[02:51:54] [INFO] Iteration 150:   73. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.939 * sqrt(dimension) + 0.625
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 132
+[02:51:54] [INFO] Iteration 150:   74. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.025 * sqrt(dimension) + 0.183
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 133
+[02:51:54] [INFO] Iteration 150:   75. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 246.445 * log(dimension) + -554.466
+[02:51:54] [INFO] Iteration 150:      R²: 0.7663
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 133
+[02:51:54] [INFO] Iteration 150:   76. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.046 * sqrt(dimension) + 0.173
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 134
+[02:51:54] [INFO] Iteration 150:   77. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 0.967 * sqrt(dimension) + 0.528
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 135
+[02:51:54] [INFO] Iteration 150:   78. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.076 * sqrt(dimension) + -0.097
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 136
+[02:51:54] [INFO] Iteration 150:   79. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.097 * sqrt(dimension) + -0.090
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 137
+[02:51:54] [INFO] Iteration 150:   80. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.092 * sqrt(dimension) + -0.158
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 138
+[02:51:54] [INFO] Iteration 150:   81. Information Capacity Law
+[02:51:54] [INFO] Iteration 150:      Formula: capacity = 257.994 * log(dimension) + -610.905
+[02:51:54] [INFO] Iteration 150:      R²: 0.7662
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 138
+[02:51:54] [INFO] Iteration 150:   82. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.045 * sqrt(dimension) + 0.097
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 139
+[02:51:54] [INFO] Iteration 150:   83. Spectral Radius Law
+[02:51:54] [INFO] Iteration 150:      Formula: spectral_radius ≈ 1.214 * sqrt(dimension) + -0.816
+[02:51:54] [INFO] Iteration 150:      Discovered at iteration: 140
+[02:51:54] [INFO] Iteration 150: 
+NOVEL CONTRIBUTIONS:
+[02:51:54] [INFO] Iteration 150:   1. Established quantitative relationships between manifold geometry and optimization
+[02:51:54] [INFO] Iteration 150:   2. Discovered phase transition phenomena in constrained optimization
+[02:51:54] [INFO] Iteration 150:   3. Formulated scaling laws for convergence rates
+[02:51:54] [INFO] Iteration 150:   4. Demonstrated information capacity principles for manifolds
+[02:51:54] [INFO] Iteration 150:   5. Identified universal patterns across different manifold families
+[02:51:54] [INFO] Iteration 150: 
+THEORETICAL INSIGHTS:
+[02:51:54] [INFO] Iteration 150:   - Curvature effects exhibit exponential amplification
+[02:51:54] [INFO] Iteration 150:   - Square root scaling is fundamental to manifold optimization
+[02:51:54] [INFO] Iteration 150:   - Phase transitions are universal in constrained optimization
+[02:51:54] [INFO] Iteration 150: 
+FUTURE RESEARCH DIRECTIONS:
+[02:51:54] [INFO] Iteration 150:   - Extend to infinite-dimensional manifolds
+[02:51:54] [INFO] Iteration 150:   - Investigate quantum geometric effects
+[02:51:54] [INFO] Iteration 150:   - Develop automated manifold selection algorithms
+[02:51:54] [INFO] Iteration 150:   - Apply to real-world optimization problems
+[02:51:54] [INFO] Iteration 150: 
+Full report saved to final_report.json
+[02:51:54] [INFO] Iteration 150: Research completed in 0.00 hours
+[02:51:54] [INFO] Iteration 150: Discovery rate: 0.067 per iteration
+[02:51:54] [INFO] Iteration 150: 
+============================================================
+[02:51:54] [COMPLETE] Iteration 150: RESEARCH PROGRAM COMPLETE
+[02:51:54] [INFO] Iteration 150: ============================================================

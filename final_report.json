@@ -1,0 +1,1381 @@
+{
+  "iterations": 150,
+  "discoveries": [
+    {
+      "iteration": 32,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9405581714432297
+    },
+    {
+      "iteration": 37,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9344956180654139
+    },
+    {
+      "iteration": 42,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9419970548905117
+    },
+    {
+      "iteration": 47,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9032200759820982
+    },
+    {
+      "iteration": 52,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.8871998720582589
+    },
+    {
+      "iteration": 57,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9014084718590214
+    },
+    {
+      "iteration": 62,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.86129322571232
+    },
+    {
+      "iteration": 67,
+      "type": "hypothesis_confirmed",
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.8813617722573615
+    },
+    {
+      "iteration": 124,
+      "type": "coupling_pattern",
+      "description": "Product manifold coupling correlates with dimension product (r=0.636)"
+    },
+    {
+      "iteration": 134,
+      "type": "coupling_pattern",
+      "description": "Product manifold coupling correlates with dimension product (r=-1.000)"
+    }
+  ],
+  "laws": [
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 261.620 * log(dimension) + -654.569",
+      "r_squared": 0.7504473798272011,
+      "iteration_discovered": 71
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 261.567 * log(dimension) + -654.201",
+      "r_squared": 0.7504886738755814,
+      "iteration_discovered": 72
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 281.035 * log(dimension) + -737.863",
+      "r_squared": 0.7867040791067632,
+      "iteration_discovered": 77
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 266.338 * log(dimension) + -662.932",
+      "r_squared": 0.7732388907898884,
+      "iteration_discovered": 78
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 272.412 * log(dimension) + -670.815",
+      "r_squared": 0.7908673671586756,
+      "iteration_discovered": 79
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 281.654 * log(dimension) + -681.328",
+      "r_squared": 0.8280958235570338,
+      "iteration_discovered": 80
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 281.584 * log(dimension) + -680.964",
+      "r_squared": 0.8279032764680417,
+      "iteration_discovered": 81
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 278.607 * log(dimension) + -682.848",
+      "r_squared": 0.8153439686846488,
+      "iteration_discovered": 82
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 278.778 * log(dimension) + -682.724",
+      "r_squared": 0.8173399408397074,
+      "iteration_discovered": 83
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 288.740 * log(dimension) + -694.308",
+      "r_squared": 0.8562456328142805,
+      "iteration_discovered": 84
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 288.769 * log(dimension) + -694.513",
+      "r_squared": 0.8561824661779066,
+      "iteration_discovered": 85
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 278.873 * log(dimension) + -682.297",
+      "r_squared": 0.8201917865481301,
+      "iteration_discovered": 86
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 279.146 * log(dimension) + -683.016",
+      "r_squared": 0.8201368344771567,
+      "iteration_discovered": 87
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 279.016 * log(dimension) + -682.359",
+      "r_squared": 0.8197548428869166,
+      "iteration_discovered": 88
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 279.032 * log(dimension) + -682.476",
+      "r_squared": 0.8197240274778435,
+      "iteration_discovered": 89
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 278.965 * log(dimension) + -682.525",
+      "r_squared": 0.818921565900393,
+      "iteration_discovered": 90
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 271.370 * log(dimension) + -671.103",
+      "r_squared": 0.8023986404934322,
+      "iteration_discovered": 91
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 271.449 * log(dimension) + -671.701",
+      "r_squared": 0.8022327033870613,
+      "iteration_discovered": 92
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 271.519 * log(dimension) + -672.232",
+      "r_squared": 0.8020765859214809,
+      "iteration_discovered": 93
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 285.679 * log(dimension) + -744.283",
+      "r_squared": 0.8154139291237135,
+      "iteration_discovered": 94
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 292.527 * log(dimension) + -756.542",
+      "r_squared": 0.8303538430977828,
+      "iteration_discovered": 95
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 297.445 * log(dimension) + -762.653",
+      "r_squared": 0.8403755484725335,
+      "iteration_discovered": 96
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 280.248 * log(dimension) + -687.174",
+      "r_squared": 0.8188676051083318,
+      "iteration_discovered": 97
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 289.561 * log(dimension) + -755.005",
+      "r_squared": 0.8058113670208591,
+      "iteration_discovered": 98
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 290.915 * log(dimension) + -758.813",
+      "r_squared": 0.8054862439032573,
+      "iteration_discovered": 99
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 269.977 * log(dimension) + -672.784",
+      "r_squared": 0.7772473665939341,
+      "iteration_discovered": 100
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 279.499 * log(dimension) + -739.354",
+      "r_squared": 0.7670344926041729,
+      "iteration_discovered": 101
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 264.289 * log(dimension) + -661.796",
+      "r_squared": 0.7535909879771021,
+      "iteration_discovered": 102
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 276.552 * log(dimension) + -683.051",
+      "r_squared": 0.7931078330318251,
+      "iteration_discovered": 103
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 257.916 * log(dimension) + -611.436",
+      "r_squared": 0.7695415977087257,
+      "iteration_discovered": 104
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 249.051 * log(dimension) + -561.741",
+      "r_squared": 0.7676488569695548,
+      "iteration_discovered": 105
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 248.862 * log(dimension) + -561.721",
+      "r_squared": 0.7658503056003331,
+      "iteration_discovered": 106
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 242.763 * log(dimension) + -499.267",
+      "r_squared": 0.7992756943944683,
+      "iteration_discovered": 110
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 235.764 * log(dimension) + -483.483",
+      "r_squared": 0.7749590229427474,
+      "iteration_discovered": 111
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.953 * sqrt(dimension) + 0.464",
+      "correlation": 0.8985395912046645,
+      "iteration_discovered": 112
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 235.747 * log(dimension) + -483.290",
+      "r_squared": 0.7751129098426688,
+      "iteration_discovered": 112
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.889 * sqrt(dimension) + 0.818",
+      "correlation": 0.8800029201971885,
+      "iteration_discovered": 113
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 235.687 * log(dimension) + -482.609",
+      "r_squared": 0.7756633136272884,
+      "iteration_discovered": 113
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.992 * sqrt(dimension) + 0.508",
+      "correlation": 0.917067080693157,
+      "iteration_discovered": 114
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 241.622 * log(dimension) + -483.371",
+      "r_squared": 0.7983948406054684,
+      "iteration_discovered": 114
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.983 * sqrt(dimension) + 0.462",
+      "correlation": 0.9056876171874975,
+      "iteration_discovered": 115
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 241.618 * log(dimension) + -483.363",
+      "r_squared": 0.7983968684283527,
+      "iteration_discovered": 115
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.315 * sqrt(dimension) + -1.120",
+      "correlation": 0.9215820160400211,
+      "iteration_discovered": 116
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 240.143 * log(dimension) + -480.168",
+      "r_squared": 0.799126768472527,
+      "iteration_discovered": 116
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.193 * sqrt(dimension) + -0.718",
+      "correlation": 0.9233160634587817,
+      "iteration_discovered": 117
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 239.640 * log(dimension) + -502.907",
+      "r_squared": 0.7682980722754478,
+      "iteration_discovered": 117
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.039 * sqrt(dimension) + 0.209",
+      "correlation": 0.9087762710052479,
+      "iteration_discovered": 118
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 240.080 * log(dimension) + -479.851",
+      "r_squared": 0.7989373250919387,
+      "iteration_discovered": 118
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.072 * sqrt(dimension) + 0.159",
+      "correlation": 0.9222538047060186,
+      "iteration_discovered": 119
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 239.716 * log(dimension) + -479.063",
+      "r_squared": 0.7991531170653916,
+      "iteration_discovered": 119
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.014 * sqrt(dimension) + 0.195",
+      "correlation": 0.9351764250510034,
+      "iteration_discovered": 120
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 245.036 * log(dimension) + -514.800",
+      "r_squared": 0.7919029846143784,
+      "iteration_discovered": 120
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.918 * sqrt(dimension) + 0.776",
+      "correlation": 0.9091093611316599,
+      "iteration_discovered": 121
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 251.337 * log(dimension) + -528.790",
+      "r_squared": 0.8166377155520074,
+      "iteration_discovered": 121
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.972 * sqrt(dimension) + 0.515",
+      "correlation": 0.9024993115911377,
+      "iteration_discovered": 122
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 258.056 * log(dimension) + -570.640",
+      "r_squared": 0.8128712953024665,
+      "iteration_discovered": 122
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.050 * sqrt(dimension) + 0.123",
+      "correlation": 0.907988963180967,
+      "iteration_discovered": 123
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 244.903 * log(dimension) + -551.382",
+      "r_squared": 0.76676727790652,
+      "iteration_discovered": 123
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.133 * sqrt(dimension) + -0.313",
+      "correlation": 0.9507641492379991,
+      "iteration_discovered": 124
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 253.519 * log(dimension) + -599.813",
+      "r_squared": 0.7681903286762279,
+      "iteration_discovered": 124
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.045 * sqrt(dimension) + 0.233",
+      "correlation": 0.9448429790205566,
+      "iteration_discovered": 125
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 253.512 * log(dimension) + -599.776",
+      "r_squared": 0.7681668435487197,
+      "iteration_discovered": 125
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.104 * sqrt(dimension) + -0.158",
+      "correlation": 0.9216655156598385,
+      "iteration_discovered": 126
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 259.954 * log(dimension) + -613.628",
+      "r_squared": 0.7925706310450458,
+      "iteration_discovered": 126
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.125 * sqrt(dimension) + -0.226",
+      "correlation": 0.9290117916708261,
+      "iteration_discovered": 127
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 264.652 * log(dimension) + -658.525",
+      "r_squared": 0.7755372242309299,
+      "iteration_discovered": 127
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.032 * sqrt(dimension) + 0.334",
+      "correlation": 0.906792168546792,
+      "iteration_discovered": 128
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 264.624 * log(dimension) + -658.388",
+      "r_squared": 0.7754466924588336,
+      "iteration_discovered": 128
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.102 * sqrt(dimension) + -0.075",
+      "correlation": 0.8891412780947943,
+      "iteration_discovered": 129
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 264.615 * log(dimension) + -658.346",
+      "r_squared": 0.7754190706022213,
+      "iteration_discovered": 129
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.117 * sqrt(dimension) + -0.132",
+      "correlation": 0.9387033650476172,
+      "iteration_discovered": 130
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.086 * sqrt(dimension) + -0.078",
+      "correlation": 0.9614059070325028,
+      "iteration_discovered": 131
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.939 * sqrt(dimension) + 0.625",
+      "correlation": 0.9213941461533423,
+      "iteration_discovered": 132
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.025 * sqrt(dimension) + 0.183",
+      "correlation": 0.9481568244987578,
+      "iteration_discovered": 133
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 246.445 * log(dimension) + -554.466",
+      "r_squared": 0.7663488573374544,
+      "iteration_discovered": 133
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.046 * sqrt(dimension) + 0.173",
+      "correlation": 0.9449990317397322,
+      "iteration_discovered": 134
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 0.967 * sqrt(dimension) + 0.528",
+      "correlation": 0.8955516768370635,
+      "iteration_discovered": 135
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.076 * sqrt(dimension) + -0.097",
+      "correlation": 0.9404879945586995,
+      "iteration_discovered": 136
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.097 * sqrt(dimension) + -0.090",
+      "correlation": 0.9414193929212497,
+      "iteration_discovered": 137
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.092 * sqrt(dimension) + -0.158",
+      "correlation": 0.9584852260728852,
+      "iteration_discovered": 138
+    },
+    {
+      "name": "Information Capacity Law",
+      "formula": "capacity = 257.994 * log(dimension) + -610.905",
+      "r_squared": 0.7661667308352733,
+      "iteration_discovered": 138
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.045 * sqrt(dimension) + 0.097",
+      "correlation": 0.9628430793534929,
+      "iteration_discovered": 139
+    },
+    {
+      "name": "Spectral Radius Law",
+      "formula": "spectral_radius \u2248 1.214 * sqrt(dimension) + -0.816",
+      "correlation": 0.9655774899991564,
+      "iteration_discovered": 140
+    }
+  ],
+  "hypotheses": [
+    {
+      "iteration": 31,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 32,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9405581714432297
+    },
+    {
+      "iteration": 33,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.3220376697037134
+    },
+    {
+      "iteration": 34,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.36263570591166117
+    },
+    {
+      "iteration": 35,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.21934946828569368
+    },
+    {
+      "iteration": 36,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 37,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9344956180654139
+    },
+    {
+      "iteration": 38,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.6960693371780899
+    },
+    {
+      "iteration": 39,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.6528413574674456
+    },
+    {
+      "iteration": 40,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.17971838755365982
+    },
+    {
+      "iteration": 41,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 42,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9419970548905117
+    },
+    {
+      "iteration": 43,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.3004716135179806
+    },
+    {
+      "iteration": 44,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.5074049428956025
+    },
+    {
+      "iteration": 45,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.007510805272470636
+    },
+    {
+      "iteration": 46,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 47,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9032200759820982
+    },
+    {
+      "iteration": 48,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.5337886013763167
+    },
+    {
+      "iteration": 49,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.5708747145368251
+    },
+    {
+      "iteration": 50,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.2992448470915177
+    },
+    {
+      "iteration": 51,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 52,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.8871998720582589
+    },
+    {
+      "iteration": 53,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.325990552377613
+    },
+    {
+      "iteration": 54,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.6784103847317771
+    },
+    {
+      "iteration": 55,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.11363517492489814
+    },
+    {
+      "iteration": 56,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 57,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.9014084718590214
+    },
+    {
+      "iteration": 58,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.4918313174762529
+    },
+    {
+      "iteration": 59,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.6336737613002041
+    },
+    {
+      "iteration": 60,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.03615529556191406
+    },
+    {
+      "iteration": 61,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 62,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.86129322571232
+    },
+    {
+      "iteration": 63,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.5742837046531625
+    },
+    {
+      "iteration": 64,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.4271458758362966
+    },
+    {
+      "iteration": 65,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.1666538402327006
+    },
+    {
+      "iteration": 66,
+      "hypothesis": "Stiefel manifolds exhibit sqrt(n) scaling",
+      "confidence": 0.0
+    },
+    {
+      "iteration": 67,
+      "hypothesis": "Grassmann capacity follows logarithmic growth",
+      "confidence": 0.8813617722573615
+    },
+    {
+      "iteration": 68,
+      "hypothesis": "Symplectic structure preserves energy",
+      "confidence": 0.497723041723753
+    },
+    {
+      "iteration": 69,
+      "hypothesis": "Product manifolds show emergent coupling",
+      "confidence": 0.4745860378661315
+    },
+    {
+      "iteration": 70,
+      "hypothesis": "Curvature amplifies convergence exponentially",
+      "confidence": 0.5065812620555444
+    }
+  ],
+  "phase_transitions": [
+    {
+      "iteration": 3,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        14,
+        15,
+        18,
+        22
+      ]
+    },
+    {
+      "iteration": 5,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2,
+        16,
+        24
+      ]
+    },
+    {
+      "iteration": 7,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        11
+      ]
+    },
+    {
+      "iteration": 8,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        8,
+        15
+      ]
+    },
+    {
+      "iteration": 12,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        1
+      ]
+    },
+    {
+      "iteration": 13,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "iteration": 15,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        1,
+        3,
+        18,
+        19,
+        22,
+        23,
+        26
+      ]
+    },
+    {
+      "iteration": 18,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2
+      ]
+    },
+    {
+      "iteration": 19,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        6,
+        15,
+        22,
+        23,
+        25,
+        26
+      ]
+    },
+    {
+      "iteration": 20,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        5,
+        6,
+        13,
+        14
+      ]
+    },
+    {
+      "iteration": 24,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        1,
+        10,
+        28
+      ]
+    },
+    {
+      "iteration": 25,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        21,
+        27,
+        28
+      ]
+    },
+    {
+      "iteration": 26,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        7,
+        9,
+        15
+      ]
+    },
+    {
+      "iteration": 27,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        8
+      ]
+    },
+    {
+      "iteration": 28,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        10,
+        11,
+        24,
+        28
+      ]
+    },
+    {
+      "iteration": 31,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        7,
+        8,
+        27,
+        28
+      ]
+    },
+    {
+      "iteration": 32,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        4,
+        5,
+        6,
+        7,
+        22,
+        24
+      ]
+    },
+    {
+      "iteration": 35,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        3
+      ]
+    },
+    {
+      "iteration": 43,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        26,
+        27
+      ]
+    },
+    {
+      "iteration": 45,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        16,
+        21,
+        22
+      ]
+    },
+    {
+      "iteration": 49,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        23,
+        27,
+        28
+      ]
+    },
+    {
+      "iteration": 52,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        6,
+        9,
+        13,
+        16
+      ]
+    },
+    {
+      "iteration": 53,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        4,
+        7,
+        26,
+        27
+      ]
+    },
+    {
+      "iteration": 54,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        10,
+        22,
+        26
+      ]
+    },
+    {
+      "iteration": 55,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        7,
+        8,
+        9,
+        10,
+        23,
+        27
+      ]
+    },
+    {
+      "iteration": 59,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        4,
+        17,
+        18,
+        28
+      ]
+    },
+    {
+      "iteration": 60,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0
+      ]
+    },
+    {
+      "iteration": 62,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        17,
+        18
+      ]
+    },
+    {
+      "iteration": 67,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        12,
+        13
+      ]
+    },
+    {
+      "iteration": 68,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        7
+      ]
+    },
+    {
+      "iteration": 69,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2,
+        8,
+        16,
+        25
+      ]
+    },
+    {
+      "iteration": 70,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        9
+      ]
+    },
+    {
+      "iteration": 72,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        4,
+        18,
+        19
+      ]
+    },
+    {
+      "iteration": 73,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        12
+      ]
+    },
+    {
+      "iteration": 75,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        4,
+        11,
+        12,
+        15,
+        17
+      ]
+    },
+    {
+      "iteration": 79,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        28
+      ]
+    },
+    {
+      "iteration": 81,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        7,
+        13,
+        15,
+        20,
+        27,
+        28
+      ]
+    },
+    {
+      "iteration": 88,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        12,
+        13,
+        15,
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "iteration": 89,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        9,
+        21,
+        22,
+        24
+      ]
+    },
+    {
+      "iteration": 92,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        3,
+        5,
+        20,
+        21
+      ]
+    },
+    {
+      "iteration": 94,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        9,
+        10,
+        25,
+        26,
+        28
+      ]
+    },
+    {
+      "iteration": 96,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        13
+      ]
+    },
+    {
+      "iteration": 99,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        15,
+        20,
+        23,
+        25
+      ]
+    },
+    {
+      "iteration": 100,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        21,
+        22
+      ]
+    },
+    {
+      "iteration": 103,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        19
+      ]
+    },
+    {
+      "iteration": 104,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0
+      ]
+    },
+    {
+      "iteration": 107,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        2,
+        3,
+        22,
+        24,
+        25,
+        28
+      ]
+    },
+    {
+      "iteration": 109,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        0,
+        7,
+        8,
+        13,
+        15,
+        18,
+        27
+      ]
+    },
+    {
+      "iteration": 114,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        18
+      ]
+    },
+    {
+      "iteration": 115,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        8,
+        10,
+        15,
+        16,
+        21,
+        22
+      ]
+    },
+    {
+      "iteration": 116,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        10,
+        11
+      ]
+    },
+    {
+      "iteration": 117,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        20
+      ]
+    },
+    {
+      "iteration": 118,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        7,
+        8,
+        10,
+        14,
+        15,
+        21
+      ]
+    },
+    {
+      "iteration": 120,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        1,
+        17,
+        18,
+        24
+      ]
+    },
+    {
+      "iteration": 122,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2
+      ]
+    },
+    {
+      "iteration": 123,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        17,
+        18,
+        19,
+        23,
+        24
+      ]
+    },
+    {
+      "iteration": 127,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        14
+      ]
+    },
+    {
+      "iteration": 129,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2
+      ]
+    },
+    {
+      "iteration": 130,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        3,
+        11,
+        12,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "iteration": 131,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        18
+      ]
+    },
+    {
+      "iteration": 133,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        2,
+        13,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "iteration": 135,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        20,
+        26
+      ]
+    },
+    {
+      "iteration": 136,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        18,
+        22,
+        24,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "iteration": 137,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        7,
+        8,
+        10,
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "iteration": 139,
+      "manifold": "Stiefel",
+      "jump_locations": [
+        11,
+        12,
+        22,
+        23
+      ]
+    }
+  ],
+  "timestamp": "2025-09-30T02:51:54.687781",
+  "duration_hours": 0.0006210917234420777
+}

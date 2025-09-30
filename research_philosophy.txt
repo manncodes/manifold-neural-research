@@ -1,0 +1,112 @@
+RESEARCH PHILOSOPHY: MANIFOLD CONSTRAINTS IN NEURAL NETWORKS
+==============================================================
+
+Core Principles (Extracted from Thinking Machines Approach):
+--------------------------------------------------------------
+
+1. THEORETICAL RIGOR WITH PRACTICAL IMPLEMENTATION
+   - Start with mathematical foundations
+   - Build intuition through geometric interpretation
+   - Validate through systematic experimentation
+   - Acknowledge computational tradeoffs
+
+2. HYPOTHESIS-DRIVEN EXPLORATION
+   - Form clear, testable hypotheses
+   - Design experiments that isolate variables
+   - Measure both expected and unexpected outcomes
+   - Question conventional wisdom
+
+3. INCREMENTAL COMPLEXITY
+   - Begin with simple, provable cases (hypersphere)
+   - Gradually increase sophistication (Stiefel manifolds)
+   - Build modular components that compose
+
+4. TRANSPARENT METHODOLOGY
+   - Document every design decision
+   - Show failures alongside successes
+   - Provide reproducible code
+   - Explain mathematical intuitions clearly
+
+Research Questions to Pursue:
+------------------------------
+
+PRIMARY HYPOTHESIS:
+Can we discover new manifold constraints that provide better inductive biases
+for specific problem domains?
+
+SUB-HYPOTHESES:
+1. Do different manifold constraints lead to predictable convergence patterns?
+2. Can we compose multiple manifold constraints hierarchically?
+3. Is there a relationship between manifold curvature and generalization?
+4. Do certain architectures naturally "prefer" specific manifolds?
+5. Can we derive optimal manifolds from data characteristics?
+
+Experimental Framework:
+-----------------------
+
+Phase 1: Foundational Understanding
+- Implement core manifold optimization algorithms
+- Reproduce known results as validation
+- Build measurement infrastructure
+
+Phase 2: Systematic Exploration
+- Test manifold constraints across different:
+  * Network architectures (MLPs, CNNs, Transformers)
+  * Data modalities (vision, text, synthetic)
+  * Task types (classification, regression, generation)
+- Track comprehensive metrics
+
+Phase 3: Novel Discovery
+- Propose new manifold families
+- Derive theoretical properties
+- Empirically validate advantages
+
+Phase 4: Law Formation
+- Identify consistent patterns
+- Formulate mathematical relationships
+- Test predictive power
+
+Measurement Strategy:
+--------------------
+
+Core Metrics:
+- Optimization trajectory (loss landscape navigation)
+- Spectral properties evolution
+- Gradient flow characteristics
+- Generalization gap dynamics
+- Computational overhead
+
+Novel Metrics to Develop:
+- Manifold adherence score
+- Geometric consistency measure
+- Compositional efficiency ratio
+- Information-theoretic manifold capacity
+
+Scientific Method:
+-----------------
+
+1. OBSERVE: Track all phenomena, expected and unexpected
+2. HYPOTHESIZE: Form concrete, mathematical predictions
+3. EXPERIMENT: Design controlled tests with clear variables
+4. ANALYZE: Apply rigorous statistical and geometric analysis
+5. THEORIZE: Derive general principles from specific results
+6. VALIDATE: Test theories on unseen problems
+
+Key Insights from Thinking Machines:
+------------------------------------
+
+- Constraints are not limitations but design choices
+- Geometry provides intuition for optimization behavior
+- Small experiments can reveal fundamental principles
+- Mathematical elegance often correlates with practical utility
+- Community engagement accelerates discovery
+
+Research Integrity:
+------------------
+
+- Report negative results honestly
+- Acknowledge computational costs
+- Provide complete experimental details
+- Share intermediate findings
+- Build on existing work respectfully
+- Question our own assumptions constantly
