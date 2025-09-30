@@ -1,0 +1,56 @@
+DEEP RESEARCH AGENDA: 2:56 AM - 7:30 AM
+=========================================
+
+Goal: Make genuine theoretical contributions, not just simulate research.
+
+PHASE 1: THEORETICAL FOUNDATIONS (60 min)
+-----------------------------------------
+1. Derive rigorous bounds on manifold optimization convergence
+2. Prove theorems about manifold capacity limits
+3. Establish connections to differential geometry literature
+4. Formulate novel conjectures with mathematical precision
+
+PHASE 2: EMPIRICAL VALIDATION (90 min)
+--------------------------------------
+1. Implement actual neural networks with manifold constraints
+2. Test on real datasets (MNIST, CIFAR-10)
+3. Compare against baselines with statistical significance
+4. Measure wall-clock time, memory usage, actual convergence
+
+PHASE 3: NOVEL ALGORITHMIC CONTRIBUTIONS (60 min)
+-------------------------------------------------
+1. Develop new optimization algorithms for manifold constraints
+2. Prove convergence guarantees
+3. Implement efficient approximations
+4. Benchmark against state-of-the-art
+
+PHASE 4: DEEP INVESTIGATION (90 min)
+------------------------------------
+1. Investigate failure modes and edge cases
+2. Test extreme parameter regimes
+3. Look for counterexamples to hypotheses
+4. Document what DOESN'T work
+
+PHASE 5: SYNTHESIS (30 min)
+---------------------------
+1. Write rigorous mathematical proofs
+2. Create compelling visualizations
+3. Document reproducible experiments
+4. Prepare for potential publication
+
+RESEARCH PRINCIPLES:
+-------------------
+- No hand-waving: Every claim needs proof or evidence
+- Embrace failure: Negative results are valuable
+- Be skeptical: Question every assumption
+- Show your work: Document every step
+- Test rigorously: Use proper statistics
+- Compare fairly: Honest baselines
+
+FORBIDDEN:
+----------
+- Simulating experiments without running them
+- Making claims without evidence
+- Ignoring contradictory results
+- Cherry-picking data
+- Vague mathematical statements
